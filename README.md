@@ -27,7 +27,7 @@ membuat saya paling tertarik pada peran yang berhubungan dengan
 **risk, compliance, dan fraud analysis**, area yang mempertemukan cara
 berpikir investigatif dengan pembuktian berbasis data.
 
-Detail pengalaman lebih lengkap ada di [Linkedin](#) *(www.linkedin.com/in/fatwa-ferdiansyah-9951ba278)*.
+Detail pengalaman lebih lengkap ada di [Linkedin](www.linkedin.com/in/fatwa-ferdiansyah-9951ba278).
 
 ---
 
