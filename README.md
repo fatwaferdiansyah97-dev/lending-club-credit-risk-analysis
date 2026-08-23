@@ -163,14 +163,3 @@ bukan bukti bahwa proses verifikasinya gagal secara kausal.
 │   └── 01_reduce_columns.py
 └── assets/
     └── (screenshot dashboard)
-```
-
----
-
-## Catatan
-
-Sebagian besar analisis dan struktur project ini disusun dengan bantuan
-AI (Claude) sebagai *thinking partner* — untuk validasi metodologi,
-debugging SQL, dan penyusunan dokumentasi. Interpretasi data, keputusan
-metodologis, dan seluruh narasi di atas ditulis ulang dan dipahami penuh
-oleh saya sendiri sebelum dipublikasikan.
